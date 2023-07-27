@@ -1,0 +1,168 @@
+.father{
+    padding-top: 30px;
+    height: 0px;
+}
+
+.logo img{
+    width:140px;
+    margin-left: 20%;
+}
+.half{
+    width:50%;
+}
+.half4{
+    width:40%;
+}
+.half6{
+    width: 60%;
+}
+.half small{
+    padding:10px;
+}
+
+.left{
+    background-image: url(hot-gadgets/bg-2.png);
+    background-position: bottom left;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: 150px;
+}
+
+.right{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 450px;
+    background-size: 80px;
+}
+.box{
+    width:60%;
+    height: 200px;
+}
+.box h3{
+    padding:5px;
+}
+.box p{
+    color:rgb(128, 125, 125);
+    font-weight: 500;
+}
+.b{
+    background-color: black;
+    color:white;
+    border-radius: 5px;
+    font-size: 12px;
+    padding:5px 10px;
+
+}
+
+body{
+    font-family:'Courier New', Courier, monospace;
+}
+.right img{
+    width: 65%;
+    margin-left: 13%;
+}
+
+.fathers{
+    height:550px;
+}
+
+#smartphone{
+    width:70%;
+    margin-left: 15%;
+    padding-bottom: 50px;
+}
+.pad-5px{
+    padding: 5px;
+}
+.card{
+    box-shadow: 5px 5px 10px rgb(201, 201, 201);
+    border-radius: 5px;
+}
+.card img{
+    width: 60%;
+    margin:50px;
+}
+.left-marg{
+    margin-left: 20%;
+}
+
+.position-right{
+    color:orange;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.marg-left-80px{
+    margin-left: 80px;
+}
+.marg-left-65px{
+    margin-left: 65px;
+}
+.cat{
+    width: 100%;
+    height:500px;
+    display: flex;
+}
+.under-categori{
+    background-color: orange;
+    color:orange;
+    margin-left: 45%;
+    padding:0px 60px;
+    border-radius: 5px;
+    font-size: 8px;
+}
+
+.pale-bg{
+    background-image: url(hot-gadgets/Categories/pale-order.png);
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.f-half{
+    width:49%;
+    height:500px;
+    display:flex;
+}
+.l-half{
+    width:49%;
+    height:500px; 
+}
+
+.img{
+    height: 200px;
+    width:180px;
+    border:none;
+    border-bottom-right-radius: 25px;
+    box-shadow: 5px  5px 10px 5px  lightgrey;
+    
+}
+
+.img img{
+    margin-top: 40px;
+    width:80px;
+}
+
+.box1{
+    margin-left: 250px;
+    margin-top: 180px;
+}
+.box2{
+    margin:30px;
+    margin-top: 65px;
+}
+.box{
+    margin:30px;
+}
+.pad-15px{
+    padding-top: 18px;
+    padding-left: 20px;
+}
+.pad-25px{
+    padding-top: 8px;
+    padding-left: 25px;
+}
+
+.box img{
+    width:80%;
+}
