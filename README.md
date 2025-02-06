@@ -4,7 +4,7 @@
 Hot Gadget is a modern **e-commerce website** built using **HTML, CSS, Bootstrap, and JavaScript**. The platform showcases various gadgets, including smartphones and laptops, with a user-friendly interface and responsive design.
 
 ## Live Project Link
-[Click here to view the live project](https://souravdn-p.github.io/Hot-gadget) *(Replace with actual link)*
+[Click here to view the live project](https://souravdn-p.github.io/Hot-gadget) 
 
 ## Technologies Used
 - **HTML5** - Structuring the web content.
